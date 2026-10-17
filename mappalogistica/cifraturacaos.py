@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# 
+# cifraturacaos.py by Giorgio Ruffa (c)2026
 # Questo programma mostra, a scopo didattico, come le proprietà caotiche 
 # della mappa logistica ($x_{n+1} = a \cdot x_n (1 - x_n)$) possano essere 
 # utilizzate in crittografia. Si adotta qui una delle tecniche più 
