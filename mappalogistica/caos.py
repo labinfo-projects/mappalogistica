@@ -1,3 +1,4 @@
+# caos.py by Giorgio Ruffa (c)2026
 #!/usr/bin/env python3
 import matplotlib.pyplot as plt
 import numpy as np
